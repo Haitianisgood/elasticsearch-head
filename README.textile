@@ -24,7 +24,7 @@ This will start a local webserver running on port 9100 serving elasticsearch-hea
 
 h4. Running with docker
 
-* for Elasticsearch 5.x: @docker run -p 9100:9100 haitiandocker/elasticsearch-head:6@
+* for Elasticsearch 6.x: @docker run -p 9100:9100 haitiandocker/elasticsearch-head:6@
 * for Elasticsearch 5.x: @docker run -p 9100:9100 mobz/elasticsearch-head:5@
 * for Elasticsearch 2.x: @docker run -p 9100:9100  mobz/elasticsearch-head:2@
 * for Elasticsearch 1.x: @docker run -p 9100:9100  mobz/elasticsearch-head:1@
